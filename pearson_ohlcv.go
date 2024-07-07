@@ -30,7 +30,7 @@ func main() {
 		{6, "V"},
 	}
 
-	fmt.Println("Obliczane korelacje Pearsona:")
+	fmt.Println("Obliczone korelacje Pearsona:")
 	for _, col := range columns {
 		seq1 := readCSVColumn(os.Args[1], col.index)
 		seq2 := readCSVColumn(os.Args[2], col.index)
