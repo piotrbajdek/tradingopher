@@ -6,4 +6,6 @@ Program [pearson_ohlcv.go](https://github.com/piotrbajdek/tradingopher/blob/main
 
 Program [proc_sklad.go](https://github.com/piotrbajdek/tradingopher/blob/main/proc_sklad.go) oblicza procent składany.
 
+Program [strata.go](https://github.com/piotrbajdek/tradingopher/blob/main/strata.go) oblicza prawdopodobieństwo wystąpienia kwartalnej straty w skali rocznej i najbardziej prawdopodobną liczbę kwartałów ze stratą.
+
 Program [theil_sen.go](https://github.com/piotrbajdek/tradingopher/blob/main/theil_sen.go) oblicza regresję medianową Theila-Sena dla wartości O, H, L, C, V na podstawie plików .csv w formacie generowanym przez MetaTrader 4.
